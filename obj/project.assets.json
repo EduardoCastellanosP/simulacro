@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camper/simulacro_examen/simulacro/simulacro.csproj",
+      "projectUniqueName": "/home/camper/simulacro/simulacro.csproj",
       "projectName": "simulacro",
-      "projectPath": "/home/camper/simulacro_examen/simulacro/simulacro.csproj",
+      "projectPath": "/home/camper/simulacro/simulacro.csproj",
       "packagesPath": "/home/camper/.nuget/packages/",
-      "outputPath": "/home/camper/simulacro_examen/simulacro/obj/",
+      "outputPath": "/home/camper/simulacro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/camper/.nuget/NuGet/NuGet.Config"
